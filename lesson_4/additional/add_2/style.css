@@ -5,4 +5,8 @@
 }
 .user-block{
     width: 45%;
+    border-radius: 10px;
+    border: solid 1px gray;
+    padding: 20px;
+    margin-bottom: 8px;
 }

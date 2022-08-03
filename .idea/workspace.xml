@@ -1,18 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8559e544-a785-4653-8242-afdbb5829ac8" name="Changes" comment="lesson 3">
-      <change afterPath="$PROJECT_DIR$/lesson_4/additional/add_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/additional/add_1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/additional/add_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/additional/add_2/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/additional/add_2/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/additional/add_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/additional/add_3/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/style.css" afterDir="false" />
+    <list default="true" id="8559e544-a785-4653-8242-afdbb5829ac8" name="Changes" comment="lesson 4">
+      <change afterPath="$PROJECT_DIR$/lesson_4/additional/add_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/additional/add_4/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_4/additional/add_4/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/additional/add_2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/additional/add_2/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_4/additional/add_2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/additional/add_2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -42,16 +37,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "list.type.of.created.stylesheet": "CSS",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\evsei\IdeaProjects\june2022-JS\lesson_4\additional\add_1" />
@@ -70,7 +65,8 @@
       <workItem from="1659294947816" duration="4286000" />
       <workItem from="1659340471692" duration="1234000" />
       <workItem from="1659352617584" duration="52000" />
-      <workItem from="1659509618693" duration="18051000" />
+      <workItem from="1659509618693" duration="18458000" />
+      <workItem from="1659553818269" duration="1355000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 1">
       <created>1659260087953</created>
@@ -100,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659342238111</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson 4">
+      <created>1659528718739</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1659528718739</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +124,25 @@
     <MESSAGE value="lesson 1" />
     <MESSAGE value="lesson 2" />
     <MESSAGE value="lesson 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 3" />
+    <MESSAGE value="lesson 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 4" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lesson_4/additional/add_4/main.js</url>
+          <line>109</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/lesson_4/additional/add_4/main.js</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
