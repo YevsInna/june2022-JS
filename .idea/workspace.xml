@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8559e544-a785-4653-8242-afdbb5829ac8" name="Changes" comment="lesson 4">
-      <change afterPath="$PROJECT_DIR$/lesson_4/additional/add_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/additional/add_4/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_4/additional/add_4/style.css" afterDir="false" />
+    <list default="true" id="8559e544-a785-4653-8242-afdbb5829ac8" name="Changes" comment="lesson 4 add 4">
+      <change afterPath="$PROJECT_DIR$/lesson_5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_5/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/additional/add_2/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/additional/add_2/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_4/additional/add_2/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_4/additional/add_2/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -66,7 +63,8 @@
       <workItem from="1659340471692" duration="1234000" />
       <workItem from="1659352617584" duration="52000" />
       <workItem from="1659509618693" duration="18458000" />
-      <workItem from="1659553818269" duration="1355000" />
+      <workItem from="1659553818269" duration="2029000" />
+      <workItem from="1659688303355" duration="6465000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 1">
       <created>1659260087953</created>
@@ -103,7 +101,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659528718739</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lesson 4 add 4">
+      <created>1659555261662</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1659555261662</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -125,7 +130,8 @@
     <MESSAGE value="lesson 2" />
     <MESSAGE value="lesson 3" />
     <MESSAGE value="lesson 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 4" />
+    <MESSAGE value="lesson 4 add 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 add 4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -133,13 +139,7 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/lesson_4/additional/add_4/main.js</url>
           <line>109</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/lesson_4/additional/add_4/main.js</url>
-          <properties lambdaOrdinal="-1" />
-          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
