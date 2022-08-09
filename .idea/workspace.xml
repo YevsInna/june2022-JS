@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8559e544-a785-4653-8242-afdbb5829ac8" name="Changes" comment="lesson 4 add 4">
-      <change afterPath="$PROJECT_DIR$/lesson_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_5/main.js" afterDir="false" />
+    <list default="true" id="8559e544-a785-4653-8242-afdbb5829ac8" name="Changes" comment="lesson 5">
+      <change afterPath="$PROJECT_DIR$/lesson_5/additional/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_5/additional/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,9 @@
       <workItem from="1659352617584" duration="52000" />
       <workItem from="1659509618693" duration="18458000" />
       <workItem from="1659553818269" duration="2029000" />
-      <workItem from="1659688303355" duration="6465000" />
+      <workItem from="1659688303355" duration="7420000" />
+      <workItem from="1659975853380" duration="6458000" />
+      <workItem from="1660027431513" duration="310000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 1">
       <created>1659260087953</created>
@@ -108,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659555261662</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lesson 5">
+      <created>1659697570423</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1659697570423</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +140,8 @@
     <MESSAGE value="lesson 3" />
     <MESSAGE value="lesson 4" />
     <MESSAGE value="lesson 4 add 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 4 add 4" />
+    <MESSAGE value="lesson 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
