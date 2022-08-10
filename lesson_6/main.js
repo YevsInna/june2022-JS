@@ -162,17 +162,17 @@ console.log(findAllClubs);
 //     hearts:[],
 //     clubs:[]
 // }
-let initialValue = {};
+
 let cardBySuit = cardSuit.reduce((previousValue, card) => {
-    if (card.cardSuit === 'spades') {
+    if (card.cardSuit === 'spade') {
         previousValue.spades.push(card);
     }
     ;
-    if (card.cardSuit === 'diamonds') {
+    if (card.cardSuit === 'diamond') {
         previousValue.diamonds.push(card);
     }
     ;
-    if (card.cardSuit === 'hearts') {
+    if (card.cardSuit === 'heart') {
         previousValue.hearts.push(card);
     }
     ;
