@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8559e544-a785-4653-8242-afdbb5829ac8" name="Changes" comment="lesson 6">
-      <change afterPath="$PROJECT_DIR$/lesson_6/additional/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson_6/additional/main.js" afterDir="false" />
+    <list default="true" id="8559e544-a785-4653-8242-afdbb5829ac8" name="Changes" comment="lesson 6 reduce">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_6/additional/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6/additional/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +67,8 @@
       <workItem from="1659975853380" duration="6458000" />
       <workItem from="1660027431513" duration="930000" />
       <workItem from="1660125875940" duration="12153000" />
-      <workItem from="1660152645723" duration="439000" />
+      <workItem from="1660152645723" duration="686000" />
+      <workItem from="1660201627996" duration="10484000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 1">
       <created>1659260087953</created>
@@ -133,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660144617484</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lesson 6 reduce">
+      <created>1660153318690</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1660153318690</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -159,7 +166,8 @@
     <MESSAGE value="lesson 5" />
     <MESSAGE value="lesson 5 additional" />
     <MESSAGE value="lesson 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 6" />
+    <MESSAGE value="lesson 6 reduce" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 6 reduce" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
