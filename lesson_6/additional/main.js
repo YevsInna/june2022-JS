@@ -95,13 +95,8 @@ console.log(generationRandom(100, 14));
 
 // - Напишіть функцію capitalize(str), яка повертає рядок, у якому кожне слово починається з великої літери.
 let capitalize = (str) => {
-    let newStr1 = str.split(' ')
-    newStr1.map((item) => {
-        return item[0].toUpperCase() + item.substring(1);
-    }).join(' ');
-    return newStr1;
+   return str.split(' ').map(word=>word[0].toUpperCase() + word.slice(1)).join(' ');
 };
-
 console.log(capitalize('кожне слово починається з великої літери'));
 
 
