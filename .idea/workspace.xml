@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8559e544-a785-4653-8242-afdbb5829ac8" name="Changes" comment="lesson 6 reduce">
+    <list default="true" id="8559e544-a785-4653-8242-afdbb5829ac8" name="Changes" comment="lesson 6 add map">
+      <change afterPath="$PROJECT_DIR$/lesson_8/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_8/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_6/additional/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_6/additional/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,16 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "js.last.introduce.type": "CONST",
+    "list.type.of.created.stylesheet": "CSS",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\evsei\IdeaProjects\june2022-JS\lesson_4\additional\add_1" />
@@ -69,7 +71,8 @@
       <workItem from="1660125875940" duration="12153000" />
       <workItem from="1660152645723" duration="686000" />
       <workItem from="1660201627996" duration="10484000" />
-      <workItem from="1660300499952" duration="925000" />
+      <workItem from="1660300499952" duration="983000" />
+      <workItem from="1660717439609" duration="9942000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 1">
       <created>1659260087953</created>
@@ -141,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660153318690</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="lesson 6 add map">
+      <created>1660301469183</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1660301469183</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +178,8 @@
     <MESSAGE value="lesson 5 additional" />
     <MESSAGE value="lesson 6" />
     <MESSAGE value="lesson 6 reduce" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson 6 reduce" />
+    <MESSAGE value="lesson 6 add map" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson 6 add map" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
