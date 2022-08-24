@@ -1,0 +1,50 @@
+.member {
+    border: #58a8c1 2px solid;
+    margin-bottom: 8px;
+    padding: 6px;
+    text-align: center;
+    background: #dbf1f8;
+}
+
+.course {
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #d4eeeb;
+}
+
+.title {
+    text-align: center;
+}
+
+.duration {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.wrap {
+    background: #075555;
+    text-align: center;
+    padding-top: 80px;
+    box-sizing: border-box;
+}
+
+.collapse {
+    color: aliceblue;
+}
+
+.alpha {
+    border-radius: 20px;
+}
+
+.beta {
+    height: 200px;
+    width: 200px;
+}
+
+.hidden{
+    display: none;
+}
+button{
+    margin: 4px;
+}
