@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8559e544-a785-4653-8242-afdbb5829ac8" name="Changes" comment="lesson 9">
-      <change afterPath="$PROJECT_DIR$/js_mini_project/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_mini_project/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_mini_project/post-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_mini_project/post-details.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_mini_project/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_mini_project/user-details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js_mini_project/user-details.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10_event_loop/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson_10_event_loop/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -84,6 +79,7 @@
       <workItem from="1661324852666" duration="5931000" />
       <workItem from="1661339538616" duration="7266000" />
       <workItem from="1661407653924" duration="9113000" />
+      <workItem from="1661769767940" duration="3976000" />
     </task>
     <task id="LOCAL-00001" summary="lesson 1">
       <created>1659260087953</created>
